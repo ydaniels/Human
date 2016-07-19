@@ -26,7 +26,7 @@ Step 1 Create Facebook Bot
 -Tell it to do it every hour on tuesday and wednesday and tell it to login sometimes with the web interface and do what normal human bieng do.
 -Tell human to work in a cyborg mode that is some action would be verified by you before they proceed or  leave it to do everything on  its own ( Note: no guarantee of quality on auto mode but Hey who cares am spamming ). Or better still do everything yourself
 
-You see you just provide the  human steps and it does everything for you using signals and dispathcer using publisher subscriber pattern.
+ Simple publisher subscriber pattern https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern.
 
 #Other Activities.
 Human can also use machine learning to detect how people behave  on a particular social media and also behave like that . Yea it can detect other bots too and avoid them or report them to be banned. 
