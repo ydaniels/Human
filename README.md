@@ -26,7 +26,9 @@ Step 1 Create Facebook Bot
 -Tell it to do it every hour on tuesday and wednesday and tell it to login sometimes with the web interface and do what normal human bieng do.
 -Tell human to work in a cyborg mode that is some action would be verified by you before they proceed or  leave it to do everything on  its own ( Note: no guarantee of quality on auto mode but Hey who cares am spamming ). Or better still do everything yourself
 
- Simple publisher subscriber pattern https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern.
+ Simple publisher subscriber pattern but in the repository that manages the signaling and event system we load in a plugin system to transform the data using filter and hook methods  https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern.
+e.g pinterest and instagram subscribes for any form of viral content or ,keyword, or a particular content from tumblr, rss , facebook, news. We load in a hook plugin to  summarize, generate article using manchine learning , another filter plugin submits the article to our website and finally the subscribers uses the content in this case  posted to instagram and pinterest.
+
 
 #Other Activities.
 Human can also use machine learning to detect how people behave  on a particular social media and also behave like that . Yea it can detect other bots too and avoid them or report them to be banned. 
