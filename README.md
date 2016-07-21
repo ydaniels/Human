@@ -16,12 +16,12 @@ The only thing Human understands is data generation from one end point , data ma
 #For Example Let Us Use Human As Facebook Spamming Bot.
 Step 1 Create Facebook Bot
 - Tell it you want to use facebook
-- Tell it how to use facebook i.e api,web interface or another external library
+- Describe how to use facebook i.e api,web interface or another external library
 - Provide where to get your information to access facebook or tell it to register , update profile and verify .
 - Provide how to use the api (Human would automatically build a software bot from it)
 - Tell it to get content from pinterest 
-- Tell it to apply some filter and transformation to the content
-- Tell it to post it on your website
+-  Human apply some filter and transformation to the content
+-  It post on your website
 - Then post the content link on your website to provided facebook groups ( also tell it to get the facebook from a particular place and filter bad groups )
 -Tell it to do it every hour on tuesday and wednesday and tell it to login sometimes with the web interface and do what normal human bieng do.
 -Tell human to work in a cyborg mode that is some action would be verified by you before they proceed or  leave it to do everything on  its own ( Note: no guarantee of quality on auto mode but Hey who cares am spamming ). Or better still do everything yourself
