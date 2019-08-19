@@ -8,12 +8,12 @@ Human is a bot ( SM ) framework that tries everything possible to bypass bot det
 Human is not really a bot , it is just a marketing tool that uses manchine learning to achieve and automate social media marketing activies i.e from content generation, viral marketing, content scheduling , keyword monitoring , analaytics , optimization and anything you can think of.
 
 #Why The Bot.
-Well it simply automates everything . Yes Everything from registration, verification , profile updates , re-verification , normal social media activities like (following, liking,rebloging ,posting,tweeting e.t.c .. ) content generation, a/b testing, group spamming, content scheduling , calendar, tracking, short links, article generation, summarization for website , trend and viral detection . etc.
+Well it simply automates everything . Yes Everything from registration, verification , profile updates , re-verification , normal social media activities like (following, liking,rebloging ,posting,tweeting e.t.c .. ) content generation, a/b testing, content scheduling , calendar, tracking, short links, article generation, summarization for website , trend and viral detection . etc.
 
 #How
 The only thing Human understands is data generation from one end point , data manipulation (filtering, building, cleaning, reproducing )  and  data submission to another endpoint. 
 
-#For Example Let Us Use Human As Facebook Spamming Bot.
+#For Example Let Us Use Human As Facebook  Bot.
 Step 1 Create Facebook Bot
 - Tell it you want to use facebook
 - Describe how to use facebook i.e api,web interface or another external library
@@ -24,7 +24,7 @@ Step 1 Create Facebook Bot
 -  It post on your website
 - Then post the content link on your website to provided facebook groups ( also tell it to get the facebook from a particular place and filter bad groups )
 -Tell it to do it every hour on tuesday and wednesday and tell it to login sometimes with the web interface and do what normal human bieng do.
--Tell human to work in a cyborg mode that is some action would be verified by you before they proceed or  leave it to do everything on  its own ( Note: no guarantee of quality on auto mode but Hey who cares am spamming ). Or better still do everything yourself
+-Tell human to work in a cyborg mode that is some action would be verified by you before they proceed or  leave it to do everything on  its own. Or better still do everything yourself
 
  Simple publisher subscriber pattern but in the repository that manages the signaling and event system we load in a plugin system to transform the data using filter and hook methods  https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern.
 e.g pinterest and instagram subscribes for any form of viral content or ,keyword, or a particular content from tumblr, rss , facebook, news. We load in a hook plugin to  summarize, generate article using manchine learning , another filter plugin submits the article to our website and finally the subscribers uses the content in this case  post the content to instagram and pinterest.
